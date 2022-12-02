@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461327166577",
+    "project_id": "hams-app-01",
+    "storage_bucket": "hams-app-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461327166577:android:85d718c357aeb2f804ffd0",
+        "android_client_info": {
+          "package_name": "com.hrs.hams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461327166577-962anmi5dlrgdlu898um6067orfgdi6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOsUJvq6Ru9Vi5pYsu3IeBvNfRb4gXes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461327166577-962anmi5dlrgdlu898um6067orfgdi6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
